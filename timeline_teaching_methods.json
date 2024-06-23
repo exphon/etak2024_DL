@@ -1,0 +1,282 @@
+{
+    "events": [{
+            "media": {
+                "url": "https://glottodidattica.wordpress.com/wp-content/uploads/2014/03/foto.jpg",
+                "credit": "GLOTTODIDATTICA E NEUROLINGUISTICA",
+                "caption": "<a href=\"https://glottodidattica.wordpress.com/2014/03/06/the-grammar-translation-method/\" title=\"\">The grammar-translation method</a>",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1800",
+                "month": "1",
+                "day": "1"
+            },
+            "text": {
+                "headline": "Grammar Translation Method",
+                "text": "<p>In this method, grammar was seen as central to language learning. A concept was presented and practised through translating sentences into and out of the target language – usually Latin or Ancient Greek.</span>"
+            },
+            "group": ""
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=XiQvG-fvzLM",
+                "credit": "",
+                "caption": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1900",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "Direct Method",
+                "text": "The Direct Method involved students making direct associations between objects or concepts and the corresponding words in the target language. Teachers frequently used images, objects and realia to represent the vocabulary."
+            },
+            "group": ""
+        },
+        {
+            "media": {
+                "url": "<blockquote>Unsurprisingly, this approach focused on speaking – and listening. Language was presented in everyday scenarios, and students had to mainly listen and repeat. Lessons were based around the principles of selection, gradation and presentation.</blockquote>",
+                "credit": "",
+                "caption": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1920",
+                "month": "1",
+                "day": "1"
+            },
+            "text": {
+                "headline": "The Oral Approach",
+                "text": ""
+            },
+            "group": ""
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=Pz0TPDUz3FU&list=PL7BlTIDdOgZJhim70umCX0sAJFOtMRnda&index=1",
+                "credit": "<a href=\"https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg\">Computer History Museum</a>",
+                "caption": "Jean Bartik talks about the ENIAC women",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1940",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "The Audiolingual Method",
+                "text": "<p>This language teaching approach, nicknamed the “Army Method”, was developed in the US after World War 2. It was created in response to the need for the military to acquire language skills quickly. It focused on intensive oral drilling of the target language. <br>Humanistic approaches start to emerge</p> <span class=\"tl-note\">You can add a YouTube URL like this video on the ENIAC Women.\n.</span>"
+            },
+            "group": "",
+            "background": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/ARL_ENIAC_02.png"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=IqcsJ-OtzKs",
+                "credit": "Jackie Bolen",
+                "caption": "What is the situational approach of teaching English | Approaches and Methods in Language Teaching",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1960",
+                "month": "1",
+                "day": ""
+            },
+            "text": {
+                "headline": "Situational Language Teaching",
+                "text": "Situational Language Teaching was in many ways similar to the Oral Approach and the Audiolingual method. It emphasised presenting grammar and vocabulary in real-life situations, and prioritising oral and aural skills over linguistic accuracy."
+            },
+            "group": ""
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=bkMQXFOqyQA",
+                "credit": "",
+                "caption": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1960",
+                "month": "1",
+                "day": ""
+            },
+            "text": {
+                "headline": "Total Physical Response",
+                "text": "Total Physical Response language teaching focused on giving students instructions and commands that encouraged physical movement. Similar to children learning their first language, the initial focus was on receptive skills before developing productive skills."
+            },
+            "group": ""
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=xqLzbLCpack&list=PL7BlTIDdOgZJhim70umCX0sAJFOtMRnda&index=5",
+                "credit": "<a href=\"https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg\">Computer History Museum</a>",
+                "caption": "Jean Bartik talks about the ENIAC women",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1963",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "The Silent Way",
+                "text": "As the name suggests, the Silent Way was based on the principle that the teacher should say as little as possible, thus encouraging language production from the students."
+            },
+            "group": "",
+            "background": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/ARL_ENIAC_02.png"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=3rkrvRlty5M&list=PL7BlTIDdOgZJhim70umCX0sAJFOtMRnda&index=4",
+                "credit": "Wikipedia",
+                "caption": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1970",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "Suggestopedia",
+                "text": "<p>This method, created by Bulgarian psychologist Georgi Lozanov, centred on the idea that the brain learns more under the right conditions. It therefore focused on creating a relaxing atmosphere for optimal learning, with music often featuring strongly.</p>"
+            },
+            "group": ""
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=tx_we_P3Pic&list=PL7BlTIDdOgZJhim70umCX0sAJFOtMRnda&index=2",
+                "credit": "Wikipedia",
+                "caption": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1970",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "Community Language Learning",
+                "text": "<p>Community Language Learning focused on group interest learning, with the teacher in a counsellor role, helping the client (learner) to understand. Communicative approaches become dominant.</p>"
+            },
+            "group": ""
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=3kRT-rsKxn4&list=PL7BlTIDdOgZJhim70umCX0sAJFOtMRnda&index=6",
+                "credit": "The White House",
+                "caption": "US Chief Technology Officer Megan Smith talks about Grace Hopper.",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1980",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "Communicative Language Teaching",
+                "text": "<p>In Communicative Language Teaching, interaction is both the way people learn, and the ultimate goal of language learning. Accuracy is less important than production.</p><span class=\"tl-note\">YouTube</span>"
+            },
+            "group": ""
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=3kRT-rsKxn4&list=PL7BlTIDdOgZJhim70umCX0sAJFOtMRnda&index=6",
+                "credit": "The White House",
+                "caption": "US Chief Technology Officer Megan Smith talks about Grace Hopper.",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1983",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "The Natural Approach",
+                "text": "<p>Tracy Terrell and Stephen Krashen published The Natural Approach in 1983. It assumed language would emerge spontaneously once students had heard and seen a lot of target language content.</p><span class=\"tl-note\">YouTube</span>"
+            },
+            "group": ""
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=N2yrhgCZa3I&t=76s",
+                "credit": "Cornell Center for Teaching Innovation",
+                "caption": "Task-Based Language Teaching",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1987",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "Task-based Learning",
+                "text": "<p>This approach entails using authentic language to complete meaningful tasks. It was first presented in the book Second Language Pedagogy by N. Prabhu in 1987. A typical lesson is structured around 3 elements – the pre-task, the task, and the review.</p>"
+            },
+            "group": ""
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=kD7cDnHEtH0",
+                "credit": "Jaime Medina",
+                "caption": "The Lexical Approach",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1990",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "The Lexical Approach",
+                "text": "<p>Developed by Michael Lewis, the Lexical Approach is based on the idea that language is made up of lexical units rather than grammar structures. This approach focuses on understanding and producing these lexical units.</p>"
+            },
+            "group": ""
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=Pk9M90WAjnI",
+                "credit": "Made in Media",
+                "caption": "What is CLIL?",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1994",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "Content and Language Integrated Learning (CLIL)",
+                "text": "<p>CLIL was first coined by UNICOM, University of Jyväskylä and the European Platform for Dutch Education in the mid-90s. It is a method of teaching an area of curriculum content entirely in target language. It is similar to the extremely successful Immersion approach, pioneered in Canada. It is a method which is gaining momentum in Australia and other countries who are struggling to retain enrolments in Languages. </p>"
+            },
+            "group": ""
+        }
+    ],
+    "title": {
+        "media": {
+            "url": "",
+            "credit": "",
+            "caption": "",
+            "thumbnail": ""
+        },
+        "start_date": {
+            "year": "",
+            "month": "",
+            "day": ""
+        },
+        "text": {
+            "headline": "A brief history of language teaching",
+            "text": "<p class=\"lead\">For as long as humans have travelled to other lands, they have studied other languages. Approaches to language teaching have evolved considerably over the centuries thanks to developments in our understanding of how people acquire language.<br>We have put together a timeline of the key language teaching approaches of the last 200 years. You may find some familiar elements, and some you’re probably glad are no longer in vogue!</p>"
+        },
+        "group": "",
+        "background": {
+            "url": "fig/learning.jpg"
+        }
+    }
+}
